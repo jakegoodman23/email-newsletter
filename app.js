@@ -50,7 +50,6 @@ app.post("/", function (req, res) {
       } else {
         res.sendFile(__dirname + "/failure.html");
       }
-      //console.log(JSON.parse(data));
     });
   });
 
