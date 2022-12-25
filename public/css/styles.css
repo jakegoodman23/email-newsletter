@@ -46,11 +46,3 @@ body {
   border-top-left-radius: 0;
   border-top-right-radius: 0;
 }
-
-.success-text {
-  color: darkgreen;
-}
-
-.failure-text {
-  color: darkorange;
-}

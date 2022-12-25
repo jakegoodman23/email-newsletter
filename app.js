@@ -65,7 +65,3 @@ app.post("/failure", function (req, res) {
 app.listen(3000, function () {
   console.log("Server is listening on port 3000");
 });
-
-//3e755c09a7a5ab265e1a0bb25f5c820d-us21
-
-//d2c06d12c6
